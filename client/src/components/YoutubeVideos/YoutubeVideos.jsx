@@ -2,7 +2,7 @@ import { useEffect } from 'react';
 import styles from '../../styles/YoutubeVideos.module.css';
 import { useState } from 'react';
 
-const API_KEY = 'AIzaSyDEt1Dm_EFnohkYxrQeosHuEOxW8BPa8lI';
+const API_KEY = 'Replace your api key';
 
 // https://youtube.googleapis.com/youtube/v3/channels?part=id&forUsername=apple&key=AIzaSyDEt1Dm_EFnohkYxrQeosHuEOxW8BPa8lI
 
